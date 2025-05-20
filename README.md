@@ -45,11 +45,39 @@ streamlit run main_app.py
 La aplicación estará disponible en: http://localhost:8501
 
 🖼️ Galería de la Aplicación
-Sección	Descripción	Captura
-Dashboard Principal	Vista general del mercado madrileño	Dashboard
-Análisis de Datos	Distribuciones estadísticas y precios por m²	Análisis
-Predicción	Modelo de valoración automática	Predicción
-Mapa Interactivo	Visualización geográfica por distritos	Mapa
+
+
+### Pantalla de inicio de sesión
+![Dashboard Principal	Vista general del mercado madrileño	Dashboard](screen/dashboard.png)
+
+### Proyecto
+![Objetivo del proyecto](screen/proyecto.png)
+
+### Análisis de Datos
+![Análisis de Datos Distribuciones estadísticas y precios por m²](screen/analisis1.png)
+
+### Análisis de Datos
+![Análisis de Datos Distribuciones estadísticas y precios por m²](screen/analisis2.png)
+
+### Análisis de Mercado
+![Análisis de Datos Distribuciones estadísticas del mercado madrileño](screen/analisismercado1.png)
+
+
+### Análisis de Mercado
+![Análisis de Datos Distribuciones estadísticas del mercado madrileño](screen/analisismercado2.png)
+
+### Predicción
+![Predicción	Modelo de valoración automática	Predicción](screen/prediccion1.png)
+
+### Mapa
+![Mapa Interactivo	Visualización geográfica por distritos](screen/prediccion2.png)
+### Proyecto
+![Objetivo del proyecto](screen/proyecto.png)
+
+### Sobre la app
+![Información y contacto](screen/app.png)
+
+
 
 Madrid_Real_Estate_AI_Valuation/
 ├── main_app.py              # Aplicación principal
@@ -66,7 +94,10 @@ Madrid_Real_Estate_AI_Valuation/
 └── requirements.txt        # Dependencias
 
 ✉️ Contacto
+
 Rosana Longares
+
 📧 rosana8longares@gmail.com
-LinkedIn
-GitHub
+
+LinkedIn https://www.linkedin.com/in/rosanalongares/
+GitHub  https://github.com/RosanaNicklas
