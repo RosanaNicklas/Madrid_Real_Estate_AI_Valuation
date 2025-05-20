@@ -44,39 +44,44 @@ bash
 streamlit run main_app.py
 La aplicación estará disponible en: http://localhost:8501
 
-🖼️ Galería de la Aplicación
+# 🖼️ Galería de la Aplicación
 
+## Pantallas principales
 
-### Pantalla de inicio de sesión
-![Dashboard Principal	Vista general del mercado madrileño	Dashboard](screen/dashboard.png)
+### Inicio de sesión
+![Pantalla de inicio de sesión](screen/dashboard.png)
 
-### Proyecto
-![Objetivo del proyecto](screen/proyecto.png)
+### Dashboard principal
+![Vista general del mercado madrileño](screen/proyecto.png)
 
-### Análisis de Datos
-![Análisis de Datos Distribuciones estadísticas y precios por m²](screen/analisis1.png)
+## Análisis de datos
 
-### Análisis de Datos
-![Análisis de Datos Distribuciones estadísticas y precios por m²](screen/analisis2.png)
+### Distribuciones estadísticas
+![Análisis de datos 1](screen/analisis1.png)
 
-### Análisis de Mercado
-![Análisis de Datos Distribuciones estadísticas del mercado madrileño](screen/analisismercado1.png)
+### Precios por m²
+![Análisis de datos 2](screen/analisis2.png)
 
+## Análisis de mercado
 
-### Análisis de Mercado
-![Análisis de Datos Distribuciones estadísticas del mercado madrileño](screen/analisismercado2.png)
+### Estadísticas del mercado 1
+![Análisis de mercado 1](screen/analisismercado1.png)
 
-### Predicción
-![Predicción	Modelo de valoración automática	Predicción](screen/prediccion1.png)
+### Estadísticas del mercado 2
+![Análisis de mercado 2](screen/analisismercado2.png)
 
-### Mapa
-![Mapa Interactivo	Visualización geográfica por distritos](screen/prediccion2.png)
-### Proyecto
-![Objetivo del proyecto](screen/proyecto.png)
+## Funcionalidades avanzadas
+
+### Modelo de predicción
+![Pantalla de predicción](screen/prediccion1.png)
+
+### Mapa interactivo
+![Visualización geográfica](screen/prediccion2.png)
+
+## Información
 
 ### Sobre la app
 ![Información y contacto](screen/app.png)
-
 
 
 Madrid_Real_Estate_AI_Valuation/
