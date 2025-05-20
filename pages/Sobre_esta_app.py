@@ -48,7 +48,7 @@ st.markdown(
     Este proyecto ha sido desarrollado por **Rosana Longares** como trabajo final del
     **Máster en Data Science** con **Nodd3r**.
 
-    Puedes encontrar el código fuente de esta aplicación en [GitHub](https://github.com/tu-repo) (reemplaza con tu repositorio real).
+    Puedes encontrar el código fuente de esta aplicación en [GitHub](https://github.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation) (reemplaza con tu repositorio real).
 
     ¡Espero que esta aplicación te sea útil e informativa! Si tienes alguna pregunta o comentario, no dudes en contactarme.
     """,
