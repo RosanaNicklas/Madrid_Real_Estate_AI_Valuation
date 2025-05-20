@@ -1,6 +1,6 @@
 # 🏠 Madrid Real Estate Analytics Dashboard
 
-![Dashboard Preview](assets/Madrid_castizo.png)  
+![Dashboard Preview](Madrid_castizo.png)  
 *Dashboard interactivo del mercado inmobiliario de Madrid*
 
 ## 📌 Descripción
