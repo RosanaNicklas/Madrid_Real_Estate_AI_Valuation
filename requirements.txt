@@ -1,0 +1,11 @@
+streamlit
+streamlit-lottie
+xgboost
+pandas
+scikit-learn
+plotly
+numpy
+json
+pickle
+sklearn.model_selection
+sklearn.metrics

@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#E0B0FF"  # Mauve suave
+backgroundColor = "#1A1A1A"  
+secondaryBackgroundColor = "#252525"  
+textColor = "#E6E6E6"
+font = "serif"  # Tipografía más formal
+
+
+
