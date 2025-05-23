@@ -66,7 +66,7 @@ La aplicación estará disponible en: http://localhost:8501
 
 ### Estadísticas del mercado 1
 ![Análisis de mercado 1](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisismercado1.png)
-
+(assets/analisismercado1.png)
 ### Estadísticas del mercado 2
 ![Análisis de mercado 2](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisismercado2.png)
 
