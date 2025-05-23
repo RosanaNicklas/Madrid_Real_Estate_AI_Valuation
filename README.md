@@ -49,10 +49,10 @@ La aplicación estará disponible en: http://localhost:8501
                            Pantallas principales
 
     Inicio de sesión
-![Dashboard](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/dashboard.png)
+![Dashboard](assets/dashboard.png) 
 
     Dashboard principal
-![Vista general del mercado madrileño](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/proyecto.png)
+![Vista general del mercado madrileño](assets/proyecto.png)
 
                               Análisis de datos
 
