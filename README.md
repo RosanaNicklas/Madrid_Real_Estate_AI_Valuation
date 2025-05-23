@@ -76,9 +76,7 @@ La aplicación estará disponible en: http://localhost:8501
 ![Vista general del mercado madrileño](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/proyecto.png)
 
 ---
-### Test de imagen directa desde GitHub raw
 
-![Test](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/dashboard.png)
 
 ## 📊 Análisis de datos
 
