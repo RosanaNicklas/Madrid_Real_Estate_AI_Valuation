@@ -49,39 +49,39 @@ La aplicación estará disponible en: http://localhost:8501
 ## Pantallas principales
 
 ### Inicio de sesión
-![Dashboard](https://raw.githubusercontent.com/tu-usuario/RosanaNicklas/main/assets/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/dashboard.png)
 
 ### Dashboard principal
-![Vista general del mercado madrileño](assets/proyecto.png)
+![Vista general del mercado madrileño](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/proyecto.png)
 
 ## Análisis de datos
 
 ### Distribuciones estadísticas
-![Análisis de datos 1](assets/analisis1.png)
+![Análisis de datos 1](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisis1.png)
 
 ### Precios por m²
-![Análisis de datos 2](assets/analisis2.png)
+![Análisis de datos 2](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisis2.png)
 
 ## Análisis de mercado
 
 ### Estadísticas del mercado 1
-![Análisis de mercado 1](assets/analisismercado1.png)
+![Análisis de mercado 1](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisismercado1.png)
 
 ### Estadísticas del mercado 2
-![Análisis de mercado 2](assets/analisismercado2.png)
+![Análisis de mercado 2](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisismercado2.png)
 
 ## Funcionalidades avanzadas
 
 ### Modelo de predicción
-![Pantalla de predicción](assets/prediccion1.png)
+![Pantalla de predicción](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion1.png)
 
 ### Mapa interactivo
-![Visualización geográfica](assets/prediccion2.png)
+![Visualización geográfica](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion2.png)
 
 ## Información
 
 ### Sobre la app
-![Información y contacto](assets/app.png)
+![Información y contacto](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/app.png)
 
 
 Madrid_Real_Estate_AI_Valuation/
