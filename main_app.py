@@ -159,7 +159,7 @@ footer = """
             © 2023 Rosana Longares | Proyecto Final de Máster en Data Science con Nodd3r
         </div>
         <div class='footer-links'>
-            <a href="https://github.com/Madrid_Housing_Price_Prediction" target="_blank">
+            <a href="https://github.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation" target="_blank">
                 <i class="fab fa-github"></i> Código Fuente
             <a 
             <span class='footer-divider'>|</span>

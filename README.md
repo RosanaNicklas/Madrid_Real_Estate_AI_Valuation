@@ -49,39 +49,39 @@ La aplicación estará disponible en: http://localhost:8501
 ## Pantallas principales
 
 ### Inicio de sesión
-![Pantalla de inicio de sesión](screen/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/tu-usuario/RosanaNicklas/main/assets/dashboard.png)
 
 ### Dashboard principal
-![Vista general del mercado madrileño](screen/proyecto.png)
+![Vista general del mercado madrileño](assets/proyecto.png)
 
 ## Análisis de datos
 
 ### Distribuciones estadísticas
-![Análisis de datos 1](screen/analisis1.png)
+![Análisis de datos 1](assets/analisis1.png)
 
 ### Precios por m²
-![Análisis de datos 2](screen/analisis2.png)
+![Análisis de datos 2](assets/analisis2.png)
 
 ## Análisis de mercado
 
 ### Estadísticas del mercado 1
-![Análisis de mercado 1](screen/analisismercado1.png)
+![Análisis de mercado 1](assets/analisismercado1.png)
 
 ### Estadísticas del mercado 2
-![Análisis de mercado 2](screen/analisismercado2.png)
+![Análisis de mercado 2](assets/analisismercado2.png)
 
 ## Funcionalidades avanzadas
 
 ### Modelo de predicción
-![Pantalla de predicción](screen/prediccion1.png)
+![Pantalla de predicción](assets/prediccion1.png)
 
 ### Mapa interactivo
-![Visualización geográfica](screen/prediccion2.png)
+![Visualización geográfica](assets/prediccion2.png)
 
 ## Información
 
 ### Sobre la app
-![Información y contacto](screen/app.png)
+![Información y contacto](assets/app.png)
 
 
 Madrid_Real_Estate_AI_Valuation/
