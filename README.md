@@ -49,7 +49,7 @@ La aplicación estará disponible en: http://localhost:8501
                            Pantallas principales
 
     Inicio de sesión
-![Dashboard](assets/dashboard.png) 
+![Dashboard](dashboard.png) 
 
     Dashboard principal
 ![Vista general del mercado madrileño](assets/proyecto.png)
