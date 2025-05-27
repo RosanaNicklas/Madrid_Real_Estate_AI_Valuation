@@ -113,6 +113,39 @@ La aplicación estará disponible en: http://localhost:8501
 
 ### 📱 Sobre la app
 ![Información y contacto](assets/app.png)
+## 🚪 Pantallas principales
+
+| Pantalla            | Vista                                                                 |
+|---------------------|-----------------------------------------------------------------------|
+| 🔐 Inicio de sesión | ![Dashboard](assets/dashboard.png)                                    |
+| 🏠 Dashboard principal | ![Vista general del mercado madrileño](assets/proyecto.png)       |
+
+## 📊 Análisis de datos
+
+| Pantalla                    | Vista                                                      |
+|-----------------------------|------------------------------------------------------------|
+| 📈 Distribuciones estadísticas | ![Análisis de datos 1](assets/analisis1.png)          |
+| 💶 Precios por m²            | ![Análisis de datos 2](assets/analisis2.png)             |
+
+## 🏘️ Análisis de mercado
+
+| Pantalla                        | Vista                                                        |
+|---------------------------------|--------------------------------------------------------------|
+| 📊 Estadísticas del mercado 1   | ![Análisis de mercado 1](assets/analisismercado1.png)        |
+| 📊 Estadísticas del mercado 2   | ![Análisis de mercado 2](assets/analisismercado2.png)        |
+
+## 🧠 Funcionalidades avanzadas
+
+| Funcionalidad               | Vista                                                           |
+|-----------------------------|-----------------------------------------------------------------|
+| 🤖 Modelo de predicción     | ![Pantalla de predicción](assets/prediccion1.png)              |
+| 🗺️ Mapa interactivo         | ![Visualización geográfica](assets/prediccion2.png)            |
+
+## ℹ️ Información
+
+| Sección            | Vista                                                           |
+|--------------------|-----------------------------------------------------------------|
+| 📱 Sobre la app     | ![Información y contacto](assets/app.png)                      |
 
 
 
