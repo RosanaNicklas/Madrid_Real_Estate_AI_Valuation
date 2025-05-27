@@ -95,21 +95,6 @@ Rendimiento del Modelo:
 
 ---
 
-## 🛠 Tecnologías Utilizadas
-
-<div align="center">
-
-| Categoría       | Tecnologías                                                                 |
-|-----------------|-----------------------------------------------------------------------------|
-| Frontend        | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)  |
-| Backend         | ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)      |
-| Visualización   | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib) |
-| Machine Learning| ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn) |
-
-</div>
-
----
-
 📬 Contacto
 
 Rosana Longares
