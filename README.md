@@ -1,18 +1,25 @@
 # 🏠 Dashboard Analítico de Mercado Inmobiliario de Madrid
 
-![Banner del proyecto](Madrid_castizo.png)  
+![Banner del proyecto](madrid_castizo.png)  
 *Dashboard interactivo para análisis del mercado inmobiliario madrileño*
 
 ## 🌟 Características Principales
 
 <div align="center">
   <img src="assets/dashboard.png" alt="Pantalla de inicio" width="45%">
+
   <img src="assets/proyecto.png" alt="Vista general del proyecto" width="45%">
+
+
+### 1. Análisis de los datos
+
   <img src="assets/analisis1.png" alt="Análisis estadístico 1" width="45%">
+
   <img src="assets/analisis2.png" alt="Análisis estadístico 2" width="45%">
+
 </div>
 
-## 🛠 Tecnologías Utilizadas
+### 2.🛠 Tecnologías Utilizadas
 
 | Categoría       | Tecnologías                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
@@ -23,7 +30,16 @@
 
 ## 📊 Módulos Destacados
 
-### 1. Análisis Geográfico Interactivo
+### 3. Análisis de los datos
+
+  <img src="assets/analisis1.png" alt="Análisis estadístico 1" width="45%">
+
+  <img src="assets/analisis2.png" alt="Análisis estadístico 2" width="45%">
+
+</div>
+
+
+### 3. Análisis Geográfico Interactivo
 ![Mapa interactivo](assets/prediccion2.png)
 *Visualización por distritos con filtros avanzados*
 
@@ -32,7 +48,7 @@
   <img src="assets/analisismercado2.png" alt="Estadísticas de mercado 2" width="45%">
 </div>
 
-### 2. Modelo Predictivo Avanzado
+### 4. Modelo Predictivo Avanzado
 ```python
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
