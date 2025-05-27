@@ -70,7 +70,7 @@ La aplicación estará disponible en: http://localhost:8501
 ## 🚪 Pantallas principales
 
 ### 🔐 Inicio de sesión
-![Dashboard](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/dashboard.png)
+![Dashboard] ("dashboard.png")
 
 ### 🏠 Dashboard principal
 ![Vista general del mercado madrileño](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/proyecto.png)
@@ -106,7 +106,7 @@ La aplicación estará disponible en: http://localhost:8501
 ### 🗺️ Mapa interactivo
 ![Visualización geográfica](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion2.png)
 
-<img src="https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion2.png" alt="Visualización geográfica" width="600"/>
+
 
 
 ## ℹ️ Información
