@@ -88,7 +88,9 @@ Rendimiento del Modelo:
 
 📬 Contacto
 
-LinkedIn
-GitHub
-Email
-<div align="center"> <a href="https://www.linkedin.com/in/rosanalongares/"> <img src="https://img.shields.io/badge/LinkedIn-Rosana_Longares-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="https://github.com/RosanaNicklas"> <img src="https://img.shields.io/badge/GitHub-RosanaNicklas-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="mailto:rosana8longares@gmail.com"> <img src="https://img.shields.io/badge/Email-rosana8longares@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"> </a> </div>
+Rosana Longares
+
+📧 rosana8longares@gmail.com
+
+LinkedIn https://www.linkedin.com/in/rosanalongares/
+GitHub  https://github.com/RosanaNicklas
