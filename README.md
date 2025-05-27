@@ -86,7 +86,7 @@ La aplicación estará disponible en: http://localhost:8501
 ### 💶 Precios por m²
 ![Análisis de datos 2](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisis2.png)
 
----
+
 
 ## 🏘️ Análisis de mercado
 
@@ -96,7 +96,7 @@ La aplicación estará disponible en: http://localhost:8501
 ### 📊 Estadísticas del mercado 2
 ![Análisis de mercado 2](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/analisismercado2.png)
 
----
+
 
 ## 🧠 Funcionalidades avanzadas
 
@@ -106,7 +106,8 @@ La aplicación estará disponible en: http://localhost:8501
 ### 🗺️ Mapa interactivo
 ![Visualización geográfica](https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion2.png)
 
----
+<img src="https://raw.githubusercontent.com/RosanaNicklas/Madrid_Real_Estate_AI_Valuation/main/assets/prediccion2.png" alt="Visualización geográfica" width="600"/>
+
 
 ## ℹ️ Información
 
