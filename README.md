@@ -6,8 +6,12 @@
 ## 🌟 Características Principales
 
 <div align="center">
-  <img src="assets/proyecto.png" alt="Vista principal del dashboard" width="45%">
-  <img src="assets/analisis1.png" alt="Análisis estadístico" width="45%">
+  <img src="assets/dashboard.png" alt="Vista principal del dashboard" width="45%">
+  <img src="assets/proyecto.png" alt="Análisis estadístico" width="45%">
+</div>
+<div align="center">
+  <img src="assets/analisis1.png" alt="Vista principal del dashboard" width="45%">
+  <img src="assets/analisis2.png" alt="Análisis estadístico" width="45%">
 </div>
 
 ## 🛠 Tecnologías Utilizadas
@@ -23,6 +27,10 @@
 ### 1. Análisis Geográfico
 ![Mapa interactivo](assets/prediccion2.png)
 *Visualización por distritos con filtros interactivos*
+<div align="center">
+  <img src="assets/analisismercado1.png" alt="Vista principal del dashboard" width="45%">
+  <img src="assets/analisismercado2.png" alt="Análisis estadístico" width="45%">
+</div>
 
 ### 2. Modelo Predictivo
 ```python
@@ -30,6 +38,11 @@
 from sklearn.ensemble import RandomForestRegressor
 model = RandomForestRegressor()
 model.fit(X_train, y_train)
+
+<div align="center">
+  <img src="assets/prediccion1.png" alt="Vista principal del dashboard" width="45%">
+  <img src="assets/prediccion2.png" alt="Análisis estadístico" width="45%">
+</div>
 
 3. Evolución Temporal
 <div align="center"> <img src="assets/analisismercado1.png" alt="Análisis temporal" width="80%"> </div>
@@ -46,6 +59,10 @@ Login	<img src="assets/dashboard.png" width="300">
 Predicción	<img src="assets/prediccion1.png" width="300">
 Acerca de	<img src="assets/app.png" width="300">
 
+<div align="center">
+  <img src="assets/proyecto.png" alt="Vista principal del dashboard" width="45%">
+  <img src="assets/app.png" alt="Análisis estadístico" width="45%">
+</div>
 ✉️ Contacto
 Rosana Longares
 LinkedIn
