@@ -1,6 +1,6 @@
 # 🏠 Dashboard Analítico de Mercado Inmobiliario de Madrid
 
-![Banner del proyecto](madrid_castizo.png)  
+![Banner del proyecto](Madrid_castizo.png)  
 *Dashboard interactivo para análisis del mercado inmobiliario madrileño*
 
 ## 🌟 Características Principales
