@@ -32,7 +32,14 @@
 ### 5. 🤖 Módulo de Predicción
 <div align="center">
   <img src="assets/prediccion1.png" alt="Formulario de predicción" width="45%">
-  <img src="assets/proyecto.png" alt="Resultados del modelo" width="45%">
+  <img src="assets/prediccion2.png" alt="Resultados del modelo" width="45%">
+</div>
+
+
+### 5. 🤖 Objetivo y sobre la app
+<div align="center">
+  <img src="assets/proyecto.png" alt="Formulario de predicción" width="45%">
+  <img src="assets/app.png" alt="Resultados del modelo" width="45%">
 </div>
 
 ---
