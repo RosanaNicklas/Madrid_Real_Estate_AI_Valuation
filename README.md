@@ -69,18 +69,13 @@ Rendimiento del Modelo:
 
 
 
-### 3. 🗺 Mapa Interactivo
-<div align="center">
-  <img src="assets/prediccion2.png" alt="Mapa de distritos" width="80%">
-</div>
-
-### 4. 📈 Tendencias de Mercado
+### 3. 📈 Tendencias de Mercado
 <div align="center">
   <img src="assets/analisismercado1.png" alt="Evolución temporal 1" width="45%">
   <img src="assets/analisismercado2.png" alt="Evolución temporal 2" width="45%">
 </div>
 
-### 5. 🤖 Módulo de Predicción
+### 4. 🤖 Módulo de Predicción
 <div align="center">
   <img src="assets/prediccion1.png" alt="Formulario de predicción" width="45%">
   <img src="assets/prediccion2.png" alt="Resultados del modelo" width="45%">
