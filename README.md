@@ -74,8 +74,23 @@ pip install -r requirements.txt
 # Ejecutar aplicación
 streamlit run main_app.py
 
-✉️ Contacto
-Rosana Longares
-📧 rosana8longares@gmail.com
-🔗 LinkedIn
-🐙 GitHub
+📬 Contacto
+
+## 📬 Contacto
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rosanalongares/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rosana_Longares-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/RosanaNicklas">
+    <img src="https://img.shields.io/badge/GitHub-RosanaNicklas-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:rosana8longares@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rosana8longares@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</div>
+
+### O en formato compacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rosana_Longares-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rosanalongares/)
+[![GitHub](https://img.shields.io/badge/GitHub-RosanaNicklas-181717?style=flat&logo=github)](https://github.com/RosanaNicklas)
+✉️ rosana8longares@gmail.com
