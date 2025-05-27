@@ -105,47 +105,43 @@ La aplicación estará disponible en: http://localhost:8501
 
 ### 🗺️ Mapa interactivo
 ![Visualización geográfica](assets/prediccion2.png)
-
-
-
-
-## ℹ️ Información
-
-### 📱 Sobre la app
-![Información y contacto](assets/app.png)
 ## 🚪 Pantallas principales
+
+
 
 | Pantalla            | Vista                                                                 |
 |---------------------|-----------------------------------------------------------------------|
-| 🔐 Inicio de sesión | ![Dashboard](assets/dashboard.png)                                    |
-| 🏠 Dashboard principal | ![Vista general del mercado madrileño](assets/proyecto.png)       |
+| 🔐 Inicio de sesión  | <img src="assets/dashboard.png" alt="Dashboard" width="300"/>        |
+| 🏠 Dashboard principal | <img src="assets/proyecto.png" alt="Vista general del mercado madrileño" width="300"/> |
 
 ## 📊 Análisis de datos
 
 | Pantalla                    | Vista                                                      |
 |-----------------------------|------------------------------------------------------------|
-| 📈 Distribuciones estadísticas | ![Análisis de datos 1](assets/analisis1.png)          |
-| 💶 Precios por m²            | ![Análisis de datos 2](assets/analisis2.png)             |
+| 📈 Distribuciones estadísticas | <img src="assets/analisis1.png" alt="Análisis de datos 1" width="300"/>          |
+| 💶 Precios por m²            | <img src="assets/analisis2.png" alt="Análisis de datos 2" width="300"/>             |
 
 ## 🏘️ Análisis de mercado
 
 | Pantalla                        | Vista                                                        |
 |---------------------------------|--------------------------------------------------------------|
-| 📊 Estadísticas del mercado 1   | ![Análisis de mercado 1](assets/analisismercado1.png)        |
-| 📊 Estadísticas del mercado 2   | ![Análisis de mercado 2](assets/analisismercado2.png)        |
+| 📊 Estadísticas del mercado 1   | <img src="assets/analisismercado1.png" alt="Análisis de mercado 1" width="300"/>        |
+| 📊 Estadísticas del mercado 2   | <img src="assets/analisismercado2.png" alt="Análisis de mercado 2" width="300"/>        |
 
 ## 🧠 Funcionalidades avanzadas
 
 | Funcionalidad               | Vista                                                           |
 |-----------------------------|-----------------------------------------------------------------|
-| 🤖 Modelo de predicción     | ![Pantalla de predicción](assets/prediccion1.png)              |
-| 🗺️ Mapa interactivo         | ![Visualización geográfica](assets/prediccion2.png)            |
+| 🤖 Modelo de predicción     | <img src="assets/prediccion1.png" alt="Pantalla de predicción" width="300"/>              |
+| 🗺️ Mapa interactivo         | <img src="assets/prediccion2.png" alt="Visualización geográfica" width="300"/>            |
 
 ## ℹ️ Información
 
 | Sección            | Vista                                                           |
 |--------------------|-----------------------------------------------------------------|
-| 📱 Sobre la app     | ![Información y contacto](assets/app.png)                      |
+| 📱 Sobre la app     | <img src="assets/app.png" alt="Información y contacto" width="300"/>                      |
+
+
 
 
 
